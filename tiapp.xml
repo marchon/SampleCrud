@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>com.stocksfoundation.samplecrud</id>
+<name>SampleCrud</name>
+<version>1.0</version>
+<publisher>Mark Stocks</publisher>
+<url>http://stocksfoundation.com</url>
+<description>Sample CRUD Database Operation</description>
+<copyright>2010 by Mark Stocks</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+<guid>83b9ff50-a85e-43ab-915e-69520621622b</guid>
+</ti:app>

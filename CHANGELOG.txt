@@ -1,0 +1,7 @@
+1.0.3 Fixes & Updates - 7/1/2010
+ - Fixed iOS 4.0 Update
+ - Fixed Data Objects
+ - Fixed GEO Tagging all address for Map View
+ - Add Created a view for Closet Jobsites
+ - Add Added icons to actions buttons for Phone, Email & Text
+ - Fixed Phone Number Issue, removed spaces
